@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mikur
-- 👀 I’m interested in ...sc
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...school
+- 🌱 I’m currently learning ...french
+- 💞️ I’m looking to collaborate on ...youtube
+- 📫 How to reach me ...gmail
 
 <!---
 mikur/mikur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
